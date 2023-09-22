@@ -31,10 +31,6 @@ The management team at Data Bank want to increase their total customer base - bu
 ```sql
 select distinct node_id from customer_nodes;
 ```
-- **Output:**
-
-![Alt text](https://miro.medium.com/v2/resize:fit:230/format:webp/1*x3V2hcuL1g8homZ77WFTxg.png)
-
 2. What is the number of nodes per region?
 ```sql
 select region_id, count( node_id) as cnt_of_node_per_region from customer_nodes
