@@ -1,3 +1,6 @@
+# Link to Pizza-Runner-SQL-Case-Study
+**https://github.com/prarthanadas99/Pizza-Runner---An-SQL-Case-Study.git**
+
 # Data-Bank-Case-Study-SQL-Challenge
 
 ![Alt text](https://8weeksqlchallenge.com/images/case-study-designs/4.png)
